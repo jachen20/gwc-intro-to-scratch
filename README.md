@@ -16,7 +16,7 @@ Next, click the create button to create your very first project!
 
 ![image](https://github.com/user-attachments/assets/eeeb317e-d1ff-4d4a-a10e-c12a1441a073)
 
-## Making the cat say, "hello, world"
+## Making the cat say, "Hello, world!"
 
 You should see a green flag and a red stop button above the cat. 
 
@@ -30,8 +30,11 @@ Next, go to the Sound section and drag this block right underneath the first one
 
 ![image](https://github.com/user-attachments/assets/926c852d-4d7f-4ccf-9a9f-f9419b64b9fd)
 
-We'll change "Hello!" into "hello, world"
+We'll change "Hello!" into "Hello, world!"
 
 ![image](https://github.com/user-attachments/assets/2722f9c1-a052-4154-888c-52a32f0aaeff)
 
+Press the green flag, and your cat should say "Hello, world!"
+
+![image](https://github.com/user-attachments/assets/585bc7c6-c5a9-4987-a719-3b374d313f7d)
 
