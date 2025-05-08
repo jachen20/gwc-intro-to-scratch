@@ -16,6 +16,8 @@ Next, click the create button to create your very first project!
 
 ![image](https://github.com/user-attachments/assets/eeeb317e-d1ff-4d4a-a10e-c12a1441a073)
 
+Next, we'll go through a tutorial to show you what you can do with Scratch! A lot of the steps are taken from Stanford's Introduction to Computer Science class, specifically this lesson: https://cs50.harvard.edu/x/2025/weeks/0/.
+
 ## Making the cat say, "Hello, world!"
 
 You should see a green flag and a red stop button above the cat. 
@@ -38,4 +40,8 @@ Press the green flag, and your cat should say "Hello, world!"
 
 ![image](https://github.com/user-attachments/assets/10882aec-c36e-4534-a982-8d22b9a63b7d)
 
+## Teaching the cat your name!
 
+Let's remove all of the blocks except for the first one we added, and head to the Sensing section. Drag this block underneath the first one:
+
+![image](https://github.com/user-attachments/assets/6f80cba5-72a6-47b5-af40-2cfef2c0935b)
