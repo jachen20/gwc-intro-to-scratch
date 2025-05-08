@@ -22,7 +22,16 @@ You should see a green flag and a red stop button above the cat.
 
 ![image](https://github.com/user-attachments/assets/5791f4f2-1835-4179-a5d8-b2f3dda539b2)
 
-The green flag stands for GO and the red stop stands for STOP. We want to make it so when we click the green flag, the cat says "hello, world". Go to the events section and drag this block into the center: 
+The green flag stands for GO and the red stop stands for STOP. We want to make it so when we click the green flag, the cat says "hello, world". Go to the Events section and drag this block into the center: 
 
 ![image](https://github.com/user-attachments/assets/9257534f-d470-435f-b4dc-11fadb401720)
+
+Next, go to the Sound section and drag this block right underneath the first one:
+
+![image](https://github.com/user-attachments/assets/926c852d-4d7f-4ccf-9a9f-f9419b64b9fd)
+
+We'll change "Hello!" into "hello, world"
+
+![image](https://github.com/user-attachments/assets/2722f9c1-a052-4154-888c-52a32f0aaeff)
+
 
