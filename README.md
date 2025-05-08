@@ -10,4 +10,5 @@ Here's the Scratch website: https://scratch.mit.edu/
 
 First, we'll set up an account with Scratch so you can come back to your projects anytime!
 
-![image](https://github.com/user-attachments/assets/4684fd9f-12c1-4969-8eab-21b4f62df933)
+![join scratch](https://github.com/user-attachments/assets/cb240225-a824-435a-bf0f-5097b56946de)
+
