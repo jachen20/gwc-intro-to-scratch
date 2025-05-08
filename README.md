@@ -53,3 +53,11 @@ Try running the program:
 We can type our name here, but once we enter, nothing really happens. That's because your name will be stored in a variable named *answer*. Let's drag the say hello block in the Looks section once again, and this time under the Sensing section, we will drag answer into the say block.
 
 ![image](https://github.com/user-attachments/assets/43bb27b5-787d-4d7c-a375-0d8b46cbfd2c)
+
+Run the program again, and once you type your name in and press enter, the cat should repeat back your name to you. We're almost there, but we want to hear something like "Hello, Jacqui" instead of just "Jacqui". Luckily for us, we can use the join button in the Operators section! We replace answer with a combination of "Hello, " and answer:
+
+![image](https://github.com/user-attachments/assets/28763978-329b-4e80-b7a6-a43aa01a4ac4)
+
+Run it again, and you should get something like this: 
+
+![image](https://github.com/user-attachments/assets/a6111e48-d1a3-4fb7-acaa-00b56648c22c)
