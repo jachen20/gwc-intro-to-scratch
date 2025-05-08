@@ -66,4 +66,17 @@ Awesome! Let's do one final step!
 
 ## Playing with Text to Speech
 
+At the bottom of the left column, there should be a purple button. Click on it, and then click on Text to Speech.
+
 ![image](https://github.com/user-attachments/assets/e8e1b189-3de6-4db5-b775-1c1e9b8cc476)
+
+Move the join block from the say block to inside the speak block. Then remove the say block by dragging it to the left (where it came from) and replace it with the speak button. You should get something like this:
+
+![image](https://github.com/user-attachments/assets/85b9d88a-b75b-4156-b160-e36b964d3fe5)
+
+Run the program again, and you should hear the cat say your name.
+
+
+
+
+
