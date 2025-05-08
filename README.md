@@ -15,3 +15,14 @@ First, we'll set up an account with Scratch so you can come back to your project
 Next, click the create button to create your very first project!
 
 ![image](https://github.com/user-attachments/assets/eeeb317e-d1ff-4d4a-a10e-c12a1441a073)
+
+## Making the cat say, "hello, world"
+
+You should see a green flag and a red stop button above the cat. 
+
+![image](https://github.com/user-attachments/assets/5791f4f2-1835-4179-a5d8-b2f3dda539b2)
+
+The green flag stands for GO and the red stop stands for STOP. We want to make it so when we click the green flag, the cat says "hello, world". Go to the events section and drag this block into the center: 
+
+![image](https://github.com/user-attachments/assets/9257534f-d470-435f-b4dc-11fadb401720)
+
