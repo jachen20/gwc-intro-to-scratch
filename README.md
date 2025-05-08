@@ -12,3 +12,6 @@ First, we'll set up an account with Scratch so you can come back to your project
 
 ![join scratch](https://github.com/user-attachments/assets/cb240225-a824-435a-bf0f-5097b56946de)
 
+Next, click the create button to create your very first project!
+
+![image](https://github.com/user-attachments/assets/eeeb317e-d1ff-4d4a-a10e-c12a1441a073)
