@@ -36,5 +36,6 @@ We'll change "Hello!" into "Hello, world!"
 
 Press the green flag, and your cat should say "Hello, world!"
 
-![image](https://github.com/user-attachments/assets/585bc7c6-c5a9-4987-a719-3b374d313f7d)
+![image](https://github.com/user-attachments/assets/10882aec-c36e-4534-a982-8d22b9a63b7d)
+
 
