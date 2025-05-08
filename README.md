@@ -61,3 +61,9 @@ Run the program again, and once you type your name in and press enter, the cat s
 Run it again, and you should get something like this: 
 
 ![image](https://github.com/user-attachments/assets/a6111e48-d1a3-4fb7-acaa-00b56648c22c)
+
+Awesome! Let's do one final step!
+
+## Playing with Text to Speech
+
+![image](https://github.com/user-attachments/assets/e8e1b189-3de6-4db5-b775-1c1e9b8cc476)
