@@ -28,7 +28,7 @@ The green flag stands for GO and the red stop stands for STOP. We want to make i
 
 ![image](https://github.com/user-attachments/assets/9257534f-d470-435f-b4dc-11fadb401720)
 
-Next, go to the Sound section and drag this block right underneath the first one:
+Next, go to the Looks section and drag this block right underneath the first one:
 
 ![image](https://github.com/user-attachments/assets/926c852d-4d7f-4ccf-9a9f-f9419b64b9fd)
 
@@ -45,3 +45,11 @@ Press the green flag, and your cat should say "Hello, world!"
 Let's remove all of the blocks except for the first one we added, and head to the Sensing section. Drag this block underneath the first one:
 
 ![image](https://github.com/user-attachments/assets/6f80cba5-72a6-47b5-af40-2cfef2c0935b)
+
+Try running the program:
+
+![image](https://github.com/user-attachments/assets/17c70fae-3cac-47ad-8847-e4f22519e9ac)
+
+We can type our name here, but once we enter, nothing really happens. That's because your name will be stored in a variable named *answer*. Let's drag the say hello block in the Looks section once again, and this time under the Sensing section, we will drag answer into the say block.
+
+![image](https://github.com/user-attachments/assets/43bb27b5-787d-4d7c-a375-0d8b46cbfd2c)
